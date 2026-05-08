@@ -304,15 +304,12 @@ function CourtGame() {
                 <li>Team 1 is the Prosecutor.</li>
                 <li>Team 2 is the Defense.</li>
                 <li>The Subject Teacher is the Jury.</li>
-                <li>Pick a random case first.</li>
-                <li>Only the case question will appear.</li>
-                <li>The Judge chooses which team speaks first.</li>
+                <li>The team will play a rock, paper, scissors game to determine who speaks first.</li>
                 <li>Each team must defend their answer before the timer ends.</li>
                 <li>Each answer must connect to justice, fairness, or common good.</li>
                 <li>After both teams speak, the Jury will vote.</li>
                 <li>The Jury must choose Prosecutor Wins, Defense Wins, or Fair Solution Needed.</li>
                 <li>The Jury must explain the final decision.</li>
-                <li>After voting, click Next Random Case.</li>
             </ol>
             </div>
 
