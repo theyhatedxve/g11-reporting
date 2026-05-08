@@ -296,14 +296,25 @@ function CourtGame() {
           </div>
 
           <div className="rules-box">
-            <h3>Rules</h3>
-            <p>1. Pick a random case.</p>
-            <p>2. Reveal the case title.</p>
-            <p>3. Proceed to Case Display.</p>
-            <p>4. Choose which side speaks first.</p>
-            <p>5. Switching sides resets and starts the timer.</p>
-            <p>6. Jury Voting opens after both sides speak.</p>
-          </div>
+            <h3>Game Rules</h3>
+
+            <ol>
+                <li>The reporters are the Judges.</li>
+                <li>The class will be divided into two teams.</li>
+                <li>Team 1 is the Prosecutor.</li>
+                <li>Team 2 is the Defense.</li>
+                <li>The Subject Teacher is the Jury.</li>
+                <li>Pick a random case first.</li>
+                <li>Only the case question will appear.</li>
+                <li>The Judge chooses which team speaks first.</li>
+                <li>Each team must defend their answer before the timer ends.</li>
+                <li>Each answer must connect to justice, fairness, or common good.</li>
+                <li>After both teams speak, the Jury will vote.</li>
+                <li>The Jury must choose Prosecutor Wins, Defense Wins, or Fair Solution Needed.</li>
+                <li>The Jury must explain the final decision.</li>
+                <li>After voting, click Next Random Case.</li>
+            </ol>
+            </div>
 
           <button onClick={() => setActiveTab("randomizer")}>
             Start Game
