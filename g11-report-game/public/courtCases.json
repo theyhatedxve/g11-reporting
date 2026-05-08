@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "The Group Project Case",
+    "topic": "Justice and Fairness",
+    "situation": "A group has five members. Three members worked hard. Two members did not help, but they still want the same grade.",
+    "question": "Should everyone receive the same grade?"
+  },
+  {
+    "id": 2,
+    "title": "The Lost Wallet Case",
+    "topic": "Honesty",
+    "situation": "A student found a wallet with money inside. Instead of returning it, the student kept it.",
+    "question": "Is keeping the wallet fair?"
+  },
+  {
+    "id": 3,
+    "title": "The Favorite Student Case",
+    "topic": "Equality",
+    "situation": "A teacher always chooses the same student to lead activities, even when others want to try.",
+    "question": "Is this fair to the class?"
+  },
+  {
+    "id": 4,
+    "title": "The Bullying Witness Case",
+    "topic": "Speaking Up",
+    "situation": "A student saw a classmate being bullied but stayed silent.",
+    "question": "Is staying silent fair to the victim?"
+  },
+  {
+    "id": 5,
+    "title": "The Exclusion Case",
+    "topic": "Inclusion",
+    "situation": "A group did not allow one student to join a game because of appearance or status.",
+    "question": "Is excluding the student fair?"
+  },
+  {
+    "id": 6,
+    "title": "The Sharing Case",
+    "topic": "Sharing",
+    "situation": "One student takes most of the art materials during group work. Others do not have enough materials.",
+    "question": "Is this fair to the group?"
+  },
+  {
+    "id": 7,
+    "title": "The Rule-Breaking Case",
+    "topic": "Obeying Rules",
+    "situation": "A student breaks a school rule because they think the rule is not important.",
+    "question": "Is breaking the rule fair to others?"
+  },
+  {
+    "id": 8,
+    "title": "The Speaking Time Case",
+    "topic": "Fairness",
+    "situation": "During a group discussion, one student talks all the time and does not give others a chance to speak.",
+    "question": "Is this fair during group discussion?"
+  }
+]
