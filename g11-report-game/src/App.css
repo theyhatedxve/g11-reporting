@@ -175,12 +175,12 @@ button:hover {
   color: #ffd27d;
 }
 
-.simple-rules ol {
+.rules-box ol {
   margin: 0;
   padding-left: 22px;
 }
 
-.simple-rules li {
+.rules-box li {
   color: #f6dfbd;
   margin-bottom: 10px;
   line-height: 1.5;
